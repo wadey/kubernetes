@@ -132,11 +132,11 @@
 		},
 		{
 			"ImportPath": "golang.org/x/oauth2",
-			"Rev": "a6bd8cefa1811bd24b86f8902872e4e8225f74c4"
+			"Rev": "c57b0facaced709681d9f90397429b9430a74754"
 		},
 		{
 			"ImportPath": "golang.org/x/oauth2/internal",
-			"Rev": "a6bd8cefa1811bd24b86f8902872e4e8225f74c4"
+			"Rev": "c57b0facaced709681d9f90397429b9430a74754"
 		},
 		{
 			"ImportPath": "golang.org/x/sys/unix",
